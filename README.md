@@ -1,4 +1,4 @@
 
-Curso de introdução a linguagem de programação Python  para cienstistas. 
+Curso de introdução a linguagem de programação Python  para cientistas. 
 
 
